@@ -1,7 +1,8 @@
 ---
 title: MCP
 excerpt: Find out how to call MCP to access additional tools
-hidden: true
+hidden: false
+icon: fad fa-microchip-ai
 ---
 The YJ Consulting Model Context Protocol (MCP) server enables AI-powered code editors like Cursor and Windsurf, plus general-purpose tools like Claude Desktop, to interact directly with your YJ Consulting API and documentation.
 
