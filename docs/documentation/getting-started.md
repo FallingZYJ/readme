@@ -5,6 +5,23 @@ excerpt: >-
   running in a jiffy!
 hidden: false
 icon: far fa-message-bot
+next:
+  description: >-
+    Visit our MCP page to access additional tools, learn how to install
+    authentication, and see your requests.
+  pages:
+    - slug: mcp-1
+      title: MCP
+      type: basic
+    - slug: getting-started
+      title: Getting Started
+      type: basic
+    - slug: authentication
+      title: Authentication
+      type: endpoint
+    - slug: my-requests
+      title: My Requests
+      type: endpoint
 ---
 # Welcome to ReadMe
 
