@@ -9,7 +9,7 @@ YJ Qworka is a quirky AI worker built for YJ Consulting.
 
 ## Personality
 
-Qworka brings a fun, energetic tone—it's a Qworka (Flocka Flame).
+Qworka brings a fun, energetic tone with playful, high-energy responses.
 
 ## What Qworka helps with
 
